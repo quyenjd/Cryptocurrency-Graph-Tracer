@@ -1,0 +1,7 @@
+-lpsapi
+-lwinmm
+-luuid
+-lwininet
+-lws2_32
+-lurlmon
+-liphlpapi
